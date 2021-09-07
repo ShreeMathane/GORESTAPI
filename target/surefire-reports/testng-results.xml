@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9365" started-at="2021-09-06T17:58:09 IST" finished-at="2021-09-06T17:58:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9365" started-at="2021-09-06T17:58:09 IST" finished-at="2021-09-06T17:58:19 IST">
+      <class name="org.gorest.api.tests.GetUserListTest">
+        <test-method status="PASS" signature="getUserList()[pri:0, instance:org.gorest.api.tests.GetUserListTest@346d61be]" name="getUserList" duration-ms="3458" started-at="2021-09-06T17:58:10 IST" finished-at="2021-09-06T17:58:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserList -->
+      </class> <!-- org.gorest.api.tests.GetUserListTest -->
+      <class name="org.gorest.api.tests.CreateNewUserTest">
+        <test-method status="PASS" signature="createNewUser()[pri:0, instance:org.gorest.api.tests.CreateNewUserTest@69e1dd28]" name="createNewUser" duration-ms="3766" started-at="2021-09-06T17:58:13 IST" finished-at="2021-09-06T17:58:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+      </class> <!-- org.gorest.api.tests.CreateNewUserTest -->
+      <class name="org.gorest.api.tests.DeleteUserTest">
+        <test-method status="PASS" signature="deleteuser()[pri:0, instance:org.gorest.api.tests.DeleteUserTest@11bd0f3b]" name="deleteuser" duration-ms="1968" started-at="2021-09-06T17:58:17 IST" finished-at="2021-09-06T17:58:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- org.gorest.api.tests.DeleteUserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
